@@ -1,0 +1,46 @@
+https://pascalabc.net/
+
+Книги Осипова
+https://pascalabc.net/modernprogramming
+
+Степик
+1. PascalABC.NET: если в школе надоел Python
+https://stepik.org/course/108040/syllabus
+Класс
+https://stepik.org/join-class/bfbec64fb241816914ab714d1dc78968789fd18a
+
+2. PascalABC.NET: современный код. Александр Осипов
+https://stepik.org/course/91781/info
+Класс
+https://stepik.org/join-class/31bea74d43cb9b4b68482c5dd1762b12061db8e3
+
+3. Паскаль и вычислительная математика. 5-6 класс, 2021/22
+https://stepik.org/course/68162/syllabus
+
+4. Лабораторные работы и задачи по программированию и информатике, егэ по информатике
+Структурное программирование. Pascal
+https://labs-org.ru/pascal/
+
+Сайт д.т.н. Полякова К.Ю.
+https://kpolyakov.spb.ru/school/ege.htm
+Скачать	Материалы для подготовки к ЕГЭ-2023 по информатике Обновление! 21.01.2023
+Пароль к архиву — kpolyakov.spb.ru
+Смотрим разбор на языке Pascal
+
+Заодно Си
+https://kpolyakov.spb.ru/school/c.htm
+
+Введение в программирование на языке Си (860 Кб) 29.03.2014
+https://kpolyakov.spb.ru/download/devcpp_1.pdf
+
+Xранение и обработка данных (792 Кб) 21.11.2013
+https://kpolyakov.spb.ru/download/devcpp_2.pdf
+
+Разработка программ на языке Си (937 Кб) 01.03.2014
+https://kpolyakov.spb.ru/download/devcpp_3.pdf
+
+Динамические структуры данных в языке Си (666 Кб) 11.06.2009
+https://kpolyakov.spb.ru/download/devcpp_4.pdf
+
+Презентации Python, C, Pascal
+https://kpolyakov.spb.ru/school/ppt.htm#c
